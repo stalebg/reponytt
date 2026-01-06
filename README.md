@@ -1,4 +1,4 @@
-# Newsroom Repos Bluesky Bot
+# News Nerd Repos - Bluesky version
 
 A Bluesky version of the original twitter bot @newsnerdrepos by @kleinmatic.
 
